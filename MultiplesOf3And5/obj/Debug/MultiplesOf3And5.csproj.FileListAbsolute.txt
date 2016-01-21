@@ -1,0 +1,6 @@
+C:\Users\jshay\OneDrive\Development\C#\Project Euler\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe.config
+C:\Users\jshay\OneDrive\Development\C#\Project Euler\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe
+C:\Users\jshay\OneDrive\Development\C#\Project Euler\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.pdb
+C:\Users\jshay\OneDrive\Development\C#\Project Euler\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.csprojResolveAssemblyReference.cache
+C:\Users\jshay\OneDrive\Development\C#\Project Euler\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.exe
+C:\Users\jshay\OneDrive\Development\C#\Project Euler\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.pdb
